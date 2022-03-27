@@ -1,0 +1,1020 @@
+[2021-06-27 12:09:46] Текст ошибки: Страница не найдена!!! | Файл: C:\OpenServer\domains\ishop2.loc\public\index.php| Строка: 8
+================
+[2021-06-27 12:09:46] Текст ошибки: Страница не найдена!!! | Файл: C:\OpenServer\domains\ishop2.loc\public\index.php| Строка: 8
+================
+[2021-06-27 17:13:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 27
+================
+[2021-06-27 18:02:12] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 35
+================
+[2021-06-27 18:02:12] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 35
+================
+[2021-06-28 08:38:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 38
+================
+[2021-06-28 13:31:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 38
+================
+[2021-06-29 08:17:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 38
+================
+[2021-06-29 19:18:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 38
+================
+[2021-06-29 20:22:58] Текст ошибки: Class 'app\controllers\Controller' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php| Строка: 12
+================
+[2021-06-29 20:23:53] Текст ошибки:  Метод app\controllers\MainController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 33
+================
+[2021-06-29 20:23:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-06-30 10:28:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-06-30 10:33:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-06-30 10:34:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-06-30 15:32:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-06-30 15:46:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-07-01 18:31:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 39
+================
+[2021-07-01 20:33:05] Текст ошибки: Контроллер app\controllers\OooController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 38
+================
+[2021-07-01 20:33:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-01 20:34:17] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-01 20:34:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-01 20:36:26] Текст ошибки:  Метод app\controllers\PageController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 35
+================
+[2021-07-01 20:36:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-01 20:36:48] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-01 20:36:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-01 20:36:57] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-01 20:36:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-01 20:37:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-01 20:38:26] Текст ошибки: На найден шаблон default | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-01 20:38:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 41
+================
+[2021-07-03 04:45:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 08:36:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:28:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:28:53] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php| Строка: 21
+================
+[2021-07-05 10:29:23] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php| Строка: 21
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:39:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:41:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-05 10:41:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 14:19:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 14:58:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:15:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:15:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:15:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:15:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:15:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:40:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:49:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:51:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:59:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 15:59:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-06 21:44:11] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php| Строка: 27
+================
+[2021-07-06 21:44:35] Текст ошибки: Call to undefined method ishop\Regisry::getProperties() | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php| Строка: 26
+================
+[2021-07-06 21:46:23] Текст ошибки: Call to undefined method ishop\Regisry::getProperties() | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php| Строка: 27
+================
+[2021-07-06 21:47:50] Текст ошибки: Call to undefined method ishop\Regisry::getProperties() | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\AppController.php| Строка: 18
+================
+[2021-07-06 21:49:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 08:54:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 14:36:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 14:37:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 14:38:13] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php| Строка: 30
+================
+[2021-07-07 15:21:20] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: C:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php| Строка: 30
+================
+[2021-07-07 15:21:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 15:22:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 15:23:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 15:23:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 15:24:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 15:32:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 16:18:51] Текст ошибки: Class 'R' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CurrencyController.php| Строка: 11
+================
+[2021-07-07 16:19:13] Текст ошибки: Class 'R' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CurrencyController.php| Строка: 13
+================
+[2021-07-07 16:19:42] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CurrencyController.php| Строка: 14
+================
+[2021-07-07 16:19:58] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CurrencyController.php| Строка: 14
+================
+[2021-07-07 20:16:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 20:17:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 20:20:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 21:16:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-07 21:33:29] Текст ошибки: Call to undefined method ishop\Cashe::setProperty() | Файл: C:\OpenServer\domains\ishop2.loc\app\widgets\menu\Menu.php| Строка: 39
+================
+[2021-07-08 07:45:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 07:54:23] Текст ошибки: Too few arguments to function app\widgets\menu\Menu::getMenuHtml(), 0 passed in C:\OpenServer\domains\ishop2.loc\app\widgets\menu\Menu.php on line 47 and at least 1 expected | Файл: C:\OpenServer\domains\ishop2.loc\app\widgets\menu\Menu.php| Строка: 69
+================
+[2021-07-08 07:55:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 09:10:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 09:11:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:04:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:04:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:05:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:34:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:36:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:36:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:36:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:38:09] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-07-08 12:42:37] Текст ошибки:  Метод app\controllers\ProductController::viewAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-08 12:43:53] Текст ошибки:  Метод app\controllers\ProductController::viewAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-08 12:43:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 12:44:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:28:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 13:32:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 14:35:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 14:39:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 15:17:21] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'atatus' in 'where clause' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-07-08 15:17:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 15:32:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 19:50:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 20:12:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-08 20:18:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 09:51:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 09:53:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 09:53:34] Текст ошибки:  Метод app\controllers\ProductController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-09 09:55:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 10:04:55] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE related_product.product_id = 5' at line 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-07-09 10:05:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 15:50:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 15:51:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-09 15:53:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-10 17:03:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-11 14:33:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-11 14:40:48] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-07-11 14:57:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-11 14:58:44] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-07-11 15:52:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-11 16:06:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 11:40:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 12:08:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 12:09:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 13:01:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 14:41:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 19:39:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 20:40:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 20:40:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-12 20:41:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-13 20:58:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-13 21:09:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-13 21:39:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:03:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:22:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:22:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:22:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:25:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:25:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:26:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:26:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:27:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:28:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:28:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:28:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 10:29:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 11:17:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 11:25:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 11:25:11] Текст ошибки:  Метод app\controllers\CartController::showAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-14 11:31:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:09:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:09:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:13:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:14:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:39:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:41:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:42:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:43:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:43:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:43:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:45:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:45:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:46:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:46:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:46:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:47:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:49:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:49:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:50:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:50:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:50:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:50:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:52:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:52:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:53:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:53:49] Текст ошибки: На найден шаблон watches | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-14 14:56:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:56:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:56:47] Текст ошибки:  Метод app\controllers\CartController::clearAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-14 14:57:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-14 14:57:52] Текст ошибки: На найден шаблон watches | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-14 15:04:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-15 21:17:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-15 21:21:11] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:09] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:10] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:10] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:10] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:10] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:11] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:11] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-15 21:22:11] Текст ошибки:  Метод app\controllers\CurrencyController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-16 09:56:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-18 18:26:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-18 18:28:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-18 18:39:44] Текст ошибки: На найден шаблон watches | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-18 18:55:32] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.products' doesn't exist | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-07-19 09:41:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-19 20:28:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-19 20:28:25] Текст ошибки: На найден шаблон watches | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-20 19:52:32] Текст ошибки: На найден шаблон watches | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-20 19:52:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-20 20:33:22] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.products' doesn't exist | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-07-21 21:49:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-21 21:51:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-22 19:39:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-22 20:33:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-22 21:33:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-23 15:43:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-23 15:43:20] Текст ошибки: Class 'app\controllers\User' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\UserController.php| Строка: 16
+================
+[2021-07-23 15:44:59] Текст ошибки: Too few arguments to function Valitron\Validator::rule(), 1 passed in C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\Model.php on line 32 and exactly 2 expected | Файл: C:\OpenServer\domains\ishop2.loc\vendor\vlucas\valitron\src\Valitron\Validator.php| Строка: 1393
+================
+[2021-07-23 15:46:48] Текст ошибки: Fail to load language file 'C:\OpenServer\domains\ishop2.loc/public/validator/lang/ru.php' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\vlucas\valitron\src\Valitron\Validator.php| Строка: 118
+================
+[2021-07-23 15:46:59] Текст ошибки: Too few arguments to function Valitron\Validator::rule(), 1 passed in C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\Model.php on line 34 and exactly 2 expected | Файл: C:\OpenServer\domains\ishop2.loc\vendor\vlucas\valitron\src\Valitron\Validator.php| Строка: 1393
+================
+[2021-07-23 15:47:02] Текст ошибки: Too few arguments to function Valitron\Validator::rule(), 1 passed in C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\Model.php on line 34 and exactly 2 expected | Файл: C:\OpenServer\domains\ishop2.loc\vendor\vlucas\valitron\src\Valitron\Validator.php| Строка: 1393
+================
+[2021-07-23 15:47:03] Текст ошибки: Too few arguments to function Valitron\Validator::rule(), 1 passed in C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\Model.php on line 34 and exactly 2 expected | Файл: C:\OpenServer\domains\ishop2.loc\vendor\vlucas\valitron\src\Valitron\Validator.php| Строка: 1393
+================
+[2021-07-23 15:47:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-23 15:47:28] Текст ошибки: Fail to load language file 'C:\OpenServer\domains\ishop2.loc/public/validator/lang/ru.php' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\vlucas\valitron\src\Valitron\Validator.php| Строка: 118
+================
+[2021-07-23 16:13:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-24 13:12:31] Текст ошибки: syntax error, unexpected ')' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\Model.php| Строка: 33
+================
+[2021-07-24 13:12:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-24 13:18:21] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'dren_88@mail.ru' for key 'email' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-07-24 14:57:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-24 20:46:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-24 20:48:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-25 14:27:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-25 18:16:19] Текст ошибки:  Метод app\controllers\CartController::viewAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-25 18:19:47] Текст ошибки: На найден шаблон watches | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-07-25 20:47:16] Текст ошибки: Class 'app\controllers\Order' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CartController.php| Строка: 78
+================
+[2021-07-25 20:49:53] Текст ошибки: Class 'app\controllers\Order' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CartController.php| Строка: 78
+================
+[2021-07-25 20:51:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-25 20:59:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-25 21:00:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-25 21:06:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-26 07:44:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-26 18:47:21] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php| Строка: 21
+================
+[2021-07-26 18:47:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-26 20:53:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-26 20:53:54] Текст ошибки: Class 'app\models\Swift_Message' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\models\Order.php| Строка: 47
+================
+[2021-07-26 20:54:27] Текст ошибки: Failed to authenticate on SMTP server with username "testishop2@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php| Строка: 191
+================
+[2021-07-27 19:14:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-27 19:15:12] Текст ошибки:  Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-27 19:15:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 10:46:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 10:47:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 17:24:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 17:24:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 17:24:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 17:24:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 18:51:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 18:51:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 18:51:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 18:52:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-28 20:50:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:15:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:19:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:20:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:21:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:22:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:24:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:24:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:24:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:42:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:42:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:42:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:43:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:52:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 20:56:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 21:19:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-29 22:00:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-30 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-30 13:09:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-30 14:13:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-30 14:14:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-30 14:41:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:19:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:21:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:36:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:36:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:37:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:38:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:39:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:40:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 13:42:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:02:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:03:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:04:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:16:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:18:13] Текст ошибки: Call to undefined function PHPSTORM_META\type() | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php| Строка: 81
+================
+[2021-07-31 17:23:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:24:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:24:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:26:30] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-07-31 17:26:58] Текст ошибки: Class 'app\models\Breadcrumbs' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CategoryController.php| Строка: 20
+================
+[2021-07-31 17:26:59] Текст ошибки: Class 'app\models\Breadcrumbs' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CategoryController.php| Строка: 20
+================
+[2021-07-31 17:28:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:28:34] Текст ошибки: Class 'app\controllers\Breadcrumbs' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CategoryController.php| Строка: 27
+================
+[2021-07-31 17:28:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:30:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:33:26] Текст ошибки: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CategoryController.php| Строка: 63
+================
+[2021-07-31 17:34:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 17:46:43] Текст ошибки: Call to undefined method app\models\Breadcrumbs::getBreadcrumbs() | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\CategoryController.php| Строка: 27
+================
+[2021-07-31 17:49:28] Текст ошибки:  Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-07-31 17:53:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-07-31 19:58:34] Текст ошибки: Too few arguments to function app\widgets\filter\Filter::getCountGroups(), 0 passed in C:\OpenServer\domains\ishop2.loc\app\controllers\CategoryController.php on line 36 and exactly 1 expected | Файл: C:\OpenServer\domains\ishop2.loc\app\widgets\filter\Filter.php| Строка: 65
+================
+[2021-07-31 20:44:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-01 16:44:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-04 20:23:16] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-08-04 20:23:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-04 20:40:46] Текст ошибки: Class 'R' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\views\layouts\watches.php| Строка: 277
+================
+[2021-08-05 15:08:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-05 15:58:10] Текст ошибки: На найден шаблон admin | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-08-05 15:58:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-05 19:22:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-05 19:22:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-05 19:23:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-05 19:24:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-05 20:21:06] Текст ошибки: Class 'R' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\views\layouts\admin.php| Строка: 632
+================
+[2021-08-05 20:56:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-14 17:02:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-15 19:54:59] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-08-15 20:02:14] Текст ошибки:  Метод app\controllers\admin\OrderController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-15 20:02:34] Текст ошибки:  Метод app\controllers\admin\OrderController::indexAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-15 20:02:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-16 20:14:47] Текст ошибки:  Метод app\controllers\admin\OrderController::viewAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-16 20:14:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-16 20:37:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\admin\AppController.php| Строка: 33
+================
+[2021-08-16 21:13:24] Текст ошибки: На найден шаблон admin | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-08-16 21:13:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-17 12:57:42] Текст ошибки: На найден шаблон admin | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-08-17 12:57:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-18 20:44:00] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php| Строка: 21
+================
+[2021-08-18 20:44:03] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php| Строка: 21
+================
+[2021-08-18 20:44:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-18 20:53:39] Текст ошибки: Нет соединения с БД | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php| Строка: 21
+================
+[2021-08-19 11:36:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-21 09:13:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-21 15:32:37] Текст ошибки:  Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-21 18:06:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-21 18:11:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-21 19:48:57] Текст ошибки: Контроллер app\controllers\admin\CategoryController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-08-21 20:56:20] Текст ошибки:  Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-22 21:06:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 20:33:40] Текст ошибки: На найден шаблон admin | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php| Строка: 42
+================
+[2021-08-25 20:33:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:17:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:17:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:17:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:17:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:21:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:21:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-25 21:21:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-28 18:02:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-29 20:02:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-29 20:37:12] Текст ошибки:  Метод app\controllers\admin\UserController::addAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-30 20:26:34] Текст ошибки:  Метод app\controllers\admin\ProductController::editAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-08-30 20:26:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-08-30 20:28:05] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order_by product.title LIMIT 0, 10' at line 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-01 12:35:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-01 12:35:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-02 20:17:15] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:17:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-02 20:20:13] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:22:00] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:22:08] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:22:37] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:22:38] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:23:43] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ishop2`.`category`.`parent_id` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:24:46] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'category_id' doesn't have a default value | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:25:33] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'category_id' doesn't have a default value | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:27:35] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'category_id' doesn't have a default value | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:28:09] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'category_id' doesn't have a default value | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-02 20:28:54] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'category_id' doesn't have a default value | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:49:42] Текст ошибки: Class 'CForm' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\views\admin\Product\add.php| Строка: 141
+================
+[2021-09-04 18:49:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-04 18:49:44] Текст ошибки: Class 'CForm' not found | Файл: C:\OpenServer\domains\ishop2.loc\app\views\admin\Product\add.php| Строка: 141
+================
+[2021-09-04 18:51:27] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'hit' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:51:35] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:52:09] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:52:44] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'hit' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:53:07] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'hit' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:53:18] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:54:14] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:54:20] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:54:36] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:55:37] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'hit' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:55:43] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 18:56:37] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'hit' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:02:24] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:03:18] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:03:21] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:04:15] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:05:43] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:06:12] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:07:21] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:07:58] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:08:52] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:11:07] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:13:47] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:14:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-04 19:18:35] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:22:48] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-04 19:23:07] Текст ошибки: syntax error, unexpected '=' | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\admin\ProductController.php| Строка: 52
+================
+[2021-09-04 19:23:12] Текст ошибки: syntax error, unexpected '=' | Файл: C:\OpenServer\domains\ishop2.loc\app\controllers\admin\ProductController.php| Строка: 52
+================
+[2021-09-05 16:16:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:16:14] Текст ошибки: Call to undefined function GetMessage() | Файл: C:\OpenServer\domains\ishop2.loc\app\views\Category\view.php| Строка: 586
+================
+[2021-09-05 16:16:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:16:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:16:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:16:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:21:39] Текст ошибки: Too few arguments to function app\widgets\filter\Filter::__construct(), 0 passed in C:\OpenServer\domains\ishop2.loc\app\views\Category\view.php on line 54 and exactly 2 expected | Файл: C:\OpenServer\domains\ishop2.loc\app\widgets\filter\Filter.php| Строка: 15
+================
+[2021-09-05 16:21:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:21:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 16:21:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 17:26:42] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-05 17:27:48] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-05 17:28:32] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-05 17:28:53] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect double value: '' for column `ishop2`.`product`.`old_price` at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-05 17:29:30] Текст ошибки: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'hit' at row 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-05 17:29:56] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(6, 66)(9, 66)(16, 66)(19, 66)' at line 1 | Файл: C:\OpenServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php| Строка: 202
+================
+[2021-09-05 18:17:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:17:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:17:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:17:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:17:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:17:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:18:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-05 18:25:15] Текст ошибки:  Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-09-05 18:25:17] Текст ошибки:  Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 34
+================
+[2021-09-05 19:44:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-06 19:40:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-07 12:38:36] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:38:40] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:38:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-07 12:38:47] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:38:48] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:09] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:10] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:11] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:12] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:12] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:23] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-07 12:39:23] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-07 12:39:24] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-07 12:39:24] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-09-07 12:39:24] Текст ошибки: Контроллер app\controllers\BitrixController не найден | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 37
+================
+[2021-09-07 12:39:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-10-12 19:12:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-10-31 18:12:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2021-12-22 13:48:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2022-01-04 13:18:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php| Строка: 40
+================
+[2022-01-04 16:14:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\phpMaster\vendor\ishop\core\Router.php| Строка: 40
+================
+[2022-01-05 15:55:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\phpMaster\vendor\ishop\core\Router.php| Строка: 40
+================
+[2022-03-27 20:07:18] Текст ошибки:  Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\phpMaster\vendor\ishop\core\Router.php| Строка: 34
+================
+[2022-03-27 20:30:20] Текст ошибки: Call to undefined method app\models\Breadcrumbs::getBreadcrumps() | Файл: C:\OpenServer\domains\phpMaster\app\controllers\ProductController.php| Строка: 18
+================
+[2022-03-27 20:30:38] Текст ошибки: Call to undefined method app\models\Breadcrumbs::getBreadcrumps() | Файл: C:\OpenServer\domains\phpMaster\app\controllers\ProductController.php| Строка: 18
+================
